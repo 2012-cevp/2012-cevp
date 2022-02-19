@@ -1,5 +1,5 @@
 
-# Hi, I'm Carlos Villalba! <image src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="50">
+# Hi, I'm Carlos Villalba! <image src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="65">
 
 
 <p>I am a systems engineering student passionate about learning new technologies and being able to help my colleagues<p/>
