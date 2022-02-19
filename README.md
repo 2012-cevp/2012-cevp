@@ -1,4 +1,4 @@
-<h2> Hi, I'm Carlos Villalba! <image src="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc"><h2/> 
+<h2> Hi, I'm Carlos Villalba! <image src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif"><h2/> 
 
 <!--
 **2012-cevp/2012-cevp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
