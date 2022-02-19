@@ -4,6 +4,6 @@
 
 <p>I am a systems engineering student passionate about learning new technologies and being able to help my colleagues<p/>
   
-<p>-🔭I like web development data science</p>
+<p>-🔭I like web development and data science</p>
 <p>- 🌱 currently I'm learning english as a second language<p/>
 
