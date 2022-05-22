@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2012-cevp&label=Profile%20views&color=0e75b6&style=flat" alt="2012-cevp" /> </p>
 
-- 🔭 I like web **development and data science**
+- 🔭 I like **Machine Learning, Deep Learning and web development**
 
 - 🌱 I’m currently **learning english as a second language**
 
