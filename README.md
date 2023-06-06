@@ -1,11 +1,19 @@
-<h1 >Hi 👋, I'm Carlos Villalba <image src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="65"></h1>
-<h3 >Systems engineering student motivated by learning new experiences, knowledge and technologies in order to develop my personal skills and work. With great interest in the area of Machine Learning and Deep Learning, with experience in developing traditional Machine Learning models, time series and Deep Learning</h3>
+<h1 >Hello Everyone 👋, I'm Carlos Villalba </h1>
+<h3 >Hello! I'm a systems engineer passionate about technology and everything related to machine learning algorithms. My main focus is using my skills in Python, MySQL, and machine learning algorithms to develop innovative and efficient solutions.
+
+While I may not have professional experience, I am a self-taught enthusiast and constantly strive to learn and improve my programming and machine learning skills. I enjoy exploring new ideas and challenges, and I am eager to take on exciting projects where I can apply my knowledge and creativity.
+
+My key areas of interest include data analysis, artificial intelligence, and the development of applications based on machine learning algorithms. I thrive in a team environment, enjoy learning from other developers, and contributing to collaborative projects on GitHub.
+
+If you're seeking a motivated systems engineer with expertise in Python, MySQL, and machine learning, and someone who is ready to take on new challenges, I would love to be a part of your team! Please feel free to reach out to me to discuss potential collaborations or exciting projects.
+
+Let's create innovative solutions together and take technology to the next level!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2012-cevp&label=Profile%20views&color=0e75b6&style=flat" alt="2012-cevp" /> </p>
 
-- 🔭 I like **Machine Learning, Deep Learning and web development**
+- 🔭 I am always looking to learn and improve every day
 
-- 🌱 I’m currently **learning english as a second language**
+- 🌱 My second language is English **B2**
 
 - 📫 How to reach me:
 
